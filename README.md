@@ -1,106 +1,82 @@
-<!-- SUPER ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=220&section=header&text=Souvik%20Das&fontSize=44&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20|%20React%20Native&descAlignY=60&animation=fadeIn" />
+<!-- Modern Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Souvik%20Das&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20React%20Native&descAlignY=60&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Specialist;React+%7C+React+Native;Building+Scalable+Real-World+Products;Clean+Code+%7C+Real+Impact" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+%26+Mobile+Applications;Product-Focused+Full+Stack+Developer;Clean+Code+%7C+Real-World+Impact" />
 </p>
 
 ---
 
-## ✨ About Me (Animated Focus)
-<p align="center">
-🚀 <b>Building real-world, scalable web & mobile applications</b><br/><br/>
-🔭 <b>Currently working on:</b> MERN stack products with production-ready architecture<br/>
-👯 <b>Open to collaborate:</b> High-impact React / JavaScript & open-source projects<br/>
-🌱 <b>Learning:</b> DevOps, AWS & advanced backend optimization<br/>
-💬 <b>Ask me about:</b> React, APIs, real-time systems & performance<br/>
-⚡ <b>Fun fact:</b> I love crafting buttery-smooth UI animations using <b>GSAP</b>
-</p>
+## 👋 About Me
+I’m a **Full Stack Developer** focused on building **scalable, production-ready web and mobile applications** using modern JavaScript technologies.
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
+- 🔭 Working with **React, Node.js, Express & MongoDB**
+- 🌱 Learning **DevOps fundamentals, AWS & backend optimization**
+- 🤝 Open to **product-focused collaborations**
+- 💬 Ask me about **MERN stack, APIs, real-time systems**
+- ⚡ Enjoy crafting **smooth UI interactions with GSAP**
 
 ---
 
-## 🌐 Let’s Connect (Animated Badges)
-<p align="center">
+## 🔗 Connect With Me
+<p align="left">
   <a href="https://www.linkedin.com/in/souvik-das-3bb59a219/">
-    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/_souvikdas17_">
-    <img src="https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🏆 Achievements (Impact-Focused)
-<p align="center">
-✨ Built & shipped <b>production-grade web & mobile applications</b><br/>
-⚡ Implemented <b>real-time chat, APIs & payment systems</b><br/>
-🚀 Worked in <b>startup-speed environments</b> with real users<br/>
-🧠 Strong ownership mindset & clean architecture focus
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
-</p>
+## 🏆 Key Achievements
+- Built and shipped **production-grade web & mobile applications**
+- Implemented **real-time features and payment integrations**
+- Experience working in **fast-paced startup environments**
+- Strong ownership mindset with focus on **clean, maintainable code**
 
 ---
 
-## 🚀 Featured Projects (Showcase Mode)
+## 🚀 Selected Projects
 
-### 📚 Learnopia — Online Learning Marketplace
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
-</p>
-**Tech:** React • Node.js • MongoDB • Razorpay • Cloudinary  
-✔ Course uploads • ✔ Secure payments • ✔ Scalable APIs
+### Learnopia — Online Learning Marketplace
+**Tech:** React, Node.js, Express, MongoDB, Razorpay, Cloudinary  
+A full-featured learning platform supporting course creation, media uploads, and secure payments.
 
 ---
 
-### 💬 Socialy — Real-Time Chat App
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="320"/>
-</p>
-**Tech:** React • Node.js • WebSockets  
-✔ Instant messaging • ✔ Low latency • ✔ Responsive UI
+### Socialy — Real-Time Chat Application
+**Tech:** React, Node.js, WebSockets  
+A real-time messaging application optimized for low latency and responsive UX.
 
 ---
 
-### 📱 Mobile Apps — ETO & Good Luck
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="320"/>
-</p>
+### Mobile Applications (ETO, Good Luck)
 **Tech:** React Native  
-✔ Booking flows • ✔ Payments • ✔ Live production usage
+Production-ready mobile apps with booking flows, real-time updates, and payments.
 
 ---
 
-## 💻 Tech Stack (Animated Icons)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,firebase,graphql,git,github&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="260"/>
+## 💻 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,firebase,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Philosophy (No Fake Flex)
-<p align="center">
-I focus on <b>real-world projects, clean architecture, and meaningful contributions</b> — not daily commit streaks.
+## 📌 GitHub Overview
+I focus on **quality projects, clear architecture, and real-world use cases** rather than daily commit streaks.
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=souvik017&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=souvik017&icon=6&color=00F5FF" />
+  <img src="https://visitcount.itsvg.in/api?id=souvik017&color=4FC3F7" />
 </p>
 
-<!-- SUPER ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,18,14,12&height=160&section=footer&animation=fadeIn" />
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" />

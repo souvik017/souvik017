@@ -1,22 +1,86 @@
-# 💫 About Me:
-🔭 I’m currently working on: Building full-stack web applications using React, Node.js, and MongoDB.<br>👯 I’m looking to collaborate on: Open-source React or JavaScript projects, and innovative web development projects.<br>🤝 I’m looking for help with: Improving my skills in advanced backend development and cloud deployments.<br>🌱 I’m currently learning: DevOps practices, AWS, and advanced Node.js techniques.<br>💬 Ask me about: React, JavaScript, MERN stack, or responsive design techniques.<br>⚡ Fun fact: I love using GSAP for fun, creative animations on web projects!
+<!-- Header Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:0f62fe&height=180&section=header&text=Souvik%20Das&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_souvikdas17_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/souvik-das-3bb59a219/]) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=souvik017&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=souvik017&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik017&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=souvik017&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=0F62FE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%7C+React+Native;Building+Scalable+Web+%26+Mobile+Apps" />
+</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=souvik017&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+👋 Hi, I’m **Souvik Das**, a **Full Stack Developer** who enjoys building scalable, real-world web & mobile applications with clean UI and solid backend logic.
+
+🔭 **Currently working on**  
+→ Full-stack applications using **React, Node.js, Express & MongoDB**
+
+👯 **Open to collaborate on**  
+→ Product-focused React / JavaScript projects & open source
+
+🌱 **Currently learning**  
+→ DevOps basics, AWS fundamentals & backend optimization
+
+💬 **Ask me about**  
+→ React, MERN stack, REST APIs, real-time apps, responsive UI
+
+⚡ **Fun fact**  
+→ I love adding subtle, smooth animations using **GSAP** ✨
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/souvik-das-3bb59a219/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0F62FE?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/_souvikdas17_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### ⚙️ Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,gsap,vite,webpack" />
+</p>
+
+### 🔧 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,graphql" />
+</p>
+
+### 🛠 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,twilio" />
+</p>
+
+---
+
+## ✨ Highlights
+- 🚀 Built **production-ready web & mobile applications**
+- 🔁 Implemented **real-time features (WebSockets, chat systems)**
+- 💳 Integrated **secure payment gateways**
+- 🧠 Strong understanding of **end-to-end product development**
+- ⚡ Comfortable in **startup & fast-paced environments**
+
+---
+
+## 📊 GitHub Overview
+<img src="https://github-readme-stats.vercel.app/api?username=souvik017&show_icons=true&theme=transparent&hide_border=true&custom_title=GitHub%20Overview" />
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=souvik017&icon=5&color=0F62FE" />
+</p>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f62fe,100:1e1e1e&height=120&section=footer" />

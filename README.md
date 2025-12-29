@@ -1,37 +1,28 @@
-<!-- Header Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:0f62fe&height=180&section=header&text=Souvik%20Das&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=160&section=header&text=Souvik%20Das&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=0F62FE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%7C+React+Native;Building+Scalable+Web+%26+Mobile+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=800&color=00E5FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%7C+React+Native;Building+Scalable+Products" />
 </h3>
 
 ---
 
-## 💫 About Me
-
-👋 Hi, I’m **Souvik Das**, a **Full Stack Developer** who enjoys building scalable, real-world web & mobile applications with clean UI and solid backend logic.
-
-🔭 **Currently working on**  
-→ Full-stack applications using **React, Node.js, Express & MongoDB**
-
-👯 **Open to collaborate on**  
-→ Product-focused React / JavaScript projects & open source
-
-🌱 **Currently learning**  
-→ DevOps basics, AWS fundamentals & backend optimization
-
-💬 **Ask me about**  
-→ React, MERN stack, REST APIs, real-time apps, responsive UI
-
-⚡ **Fun fact**  
-→ I love adding subtle, smooth animations using **GSAP** ✨
+## ✨ About Me
+<p>
+🚀 Building real-world, scalable web & mobile applications using modern JavaScript stacks.<br/>
+🔭 <b>Currently working on:</b> Full-stack apps with React, Node.js, Express & MongoDB.<br/>
+👯 <b>Open to collaborate:</b> Product-focused React / JavaScript projects & open source.<br/>
+🌱 <b>Learning:</b> DevOps basics, AWS fundamentals & backend optimization.<br/>
+💬 <b>Ask me about:</b> MERN stack, REST APIs, real-time systems & responsive UI.<br/>
+⚡ <b>Fun fact:</b> I enjoy crafting smooth micro-interactions using <b>GSAP</b>.
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/souvik-das-3bb59a219/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0F62FE?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/_souvikdas17_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -40,47 +31,51 @@
 
 ---
 
-## 💻 Tech Stack
-
-### ⚙️ Languages & Core
+## 🏆 Achievements
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,gsap,vite,webpack" />
-</p>
-
-### 🔧 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,graphql" />
-</p>
-
-### 🛠 Tools & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,twilio" />
+✅ Built & shipped <b>production-ready web and mobile applications</b><br/>
+✅ Delivered <b>end-to-end features</b> including payments & real-time chat<br/>
+✅ Experience working in <b>startup and fast-paced environments</b><br/>
+✅ Strong ownership mindset with focus on clean, scalable code
 </p>
 
 ---
 
-## ✨ Highlights
-- 🚀 Built **production-ready web & mobile applications**
-- 🔁 Implemented **real-time features (WebSockets, chat systems)**
-- 💳 Integrated **secure payment gateways**
-- 🧠 Strong understanding of **end-to-end product development**
-- ⚡ Comfortable in **startup & fast-paced environments**
+## 🚀 Featured Projects
+
+### 📚 Learnopia – Online Learning Marketplace
+**Tech:** React, Node.js, Express, MongoDB, Tailwind, Razorpay, Cloudinary  
+✨ Full-featured learning platform with course uploads, secure payments, and optimized APIs.
+
+---
+
+### 💬 Socialy – Real-Time Chat Application
+**Tech:** React, Node.js, Express, MongoDB, WebSockets  
+⚡ Real-time messaging app with low-latency socket connections and responsive UI.
+
+---
+
+### 📱 Mobile Apps (ETO, Good Luck)
+**Tech:** React Native  
+📲 Production-ready mobile apps with booking flows, payments & real-time updates.
+
+---
+
+## 💻 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,firebase,graphql,git,github" />
+</p>
 
 ---
 
 ## 📊 GitHub Overview
-<img src="https://github-readme-stats.vercel.app/api?username=souvik017&show_icons=true&theme=transparent&hide_border=true&custom_title=GitHub%20Overview" />
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=souvik017&icon=5&color=0F62FE" />
+<p>
+Instead of focusing on daily commits, my GitHub reflects <b>real-world projects</b>, clean architecture, and practical implementations.
 </p>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f62fe,100:1e1e1e&height=120&section=footer" />
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=souvik017&icon=5&color=00E5FF" />
+</p>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=120&section=footer" />

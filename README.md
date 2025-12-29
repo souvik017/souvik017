@@ -1,81 +1,106 @@
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=160&section=header&text=Souvik%20Das&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- SUPER ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=220&section=header&text=Souvik%20Das&fontSize=44&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20|%20React%20Native&descAlignY=60&animation=fadeIn" />
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=800&color=00E5FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%7C+React+Native;Building+Scalable+Products" />
-</h3>
-
----
-
-## ✨ About Me
-<p>
-🚀 Building real-world, scalable web & mobile applications using modern JavaScript stacks.<br/>
-🔭 <b>Currently working on:</b> Full-stack apps with React, Node.js, Express & MongoDB.<br/>
-👯 <b>Open to collaborate:</b> Product-focused React / JavaScript projects & open source.<br/>
-🌱 <b>Learning:</b> DevOps basics, AWS fundamentals & backend optimization.<br/>
-💬 <b>Ask me about:</b> MERN stack, REST APIs, real-time systems & responsive UI.<br/>
-⚡ <b>Fun fact:</b> I enjoy crafting smooth micro-interactions using <b>GSAP</b>.
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/souvik-das-3bb59a219/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/_souvikdas17_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🏆 Achievements
-<p>
-✅ Built & shipped <b>production-ready web and mobile applications</b><br/>
-✅ Delivered <b>end-to-end features</b> including payments & real-time chat<br/>
-✅ Experience working in <b>startup and fast-paced environments</b><br/>
-✅ Strong ownership mindset with focus on clean, scalable code
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 📚 Learnopia – Online Learning Marketplace
-**Tech:** React, Node.js, Express, MongoDB, Tailwind, Razorpay, Cloudinary  
-✨ Full-featured learning platform with course uploads, secure payments, and optimized APIs.
-
----
-
-### 💬 Socialy – Real-Time Chat Application
-**Tech:** React, Node.js, Express, MongoDB, WebSockets  
-⚡ Real-time messaging app with low-latency socket connections and responsive UI.
-
----
-
-### 📱 Mobile Apps (ETO, Good Luck)
-**Tech:** React Native  
-📲 Production-ready mobile apps with booking flows, payments & real-time updates.
-
----
-
-## 💻 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,firebase,graphql,git,github" />
-</p>
-
----
-
-## 📊 GitHub Overview
-<p>
-Instead of focusing on daily commits, my GitHub reflects <b>real-world projects</b>, clean architecture, and practical implementations.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Specialist;React+%7C+React+Native;Building+Scalable+Real-World+Products;Clean+Code+%7C+Real+Impact" />
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=souvik017&icon=5&color=00E5FF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=120&section=footer" />
+---
+
+## ✨ About Me (Animated Focus)
+<p align="center">
+🚀 <b>Building real-world, scalable web & mobile applications</b><br/><br/>
+🔭 <b>Currently working on:</b> MERN stack products with production-ready architecture<br/>
+👯 <b>Open to collaborate:</b> High-impact React / JavaScript & open-source projects<br/>
+🌱 <b>Learning:</b> DevOps, AWS & advanced backend optimization<br/>
+💬 <b>Ask me about:</b> React, APIs, real-time systems & performance<br/>
+⚡ <b>Fun fact:</b> I love crafting buttery-smooth UI animations using <b>GSAP</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Let’s Connect (Animated Badges)
+<p align="center">
+  <a href="https://www.linkedin.com/in/souvik-das-3bb59a219/">
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/_souvikdas17_">
+    <img src="https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements (Impact-Focused)
+<p align="center">
+✨ Built & shipped <b>production-grade web & mobile applications</b><br/>
+⚡ Implemented <b>real-time chat, APIs & payment systems</b><br/>
+🚀 Worked in <b>startup-speed environments</b> with real users<br/>
+🧠 Strong ownership mindset & clean architecture focus
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
+</p>
+
+---
+
+## 🚀 Featured Projects (Showcase Mode)
+
+### 📚 Learnopia — Online Learning Marketplace
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+</p>
+**Tech:** React • Node.js • MongoDB • Razorpay • Cloudinary  
+✔ Course uploads • ✔ Secure payments • ✔ Scalable APIs
+
+---
+
+### 💬 Socialy — Real-Time Chat App
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="320"/>
+</p>
+**Tech:** React • Node.js • WebSockets  
+✔ Instant messaging • ✔ Low latency • ✔ Responsive UI
+
+---
+
+### 📱 Mobile Apps — ETO & Good Luck
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="320"/>
+</p>
+**Tech:** React Native  
+✔ Booking flows • ✔ Payments • ✔ Live production usage
+
+---
+
+## 💻 Tech Stack (Animated Icons)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,firebase,graphql,git,github&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="260"/>
+</p>
+
+---
+
+## 📊 GitHub Philosophy (No Fake Flex)
+<p align="center">
+I focus on <b>real-world projects, clean architecture, and meaningful contributions</b> — not daily commit streaks.
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=souvik017&icon=6&color=00F5FF" />
+</p>
+
+<!-- SUPER ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,18,14,12&height=160&section=footer&animation=fadeIn" />
